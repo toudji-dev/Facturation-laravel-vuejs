@@ -21,7 +21,7 @@ Ce projet est une application web simple de facturation, conçue pour faciliter 
 
 ```bash
 # Cloner le projet
-git clone https://github.com/TON-NOM-UTILISATEUR/facturation-laravel-vuejs.git
+git clone https://github.com/toudji-dev/facturation-laravel-vuejs.git
 
 # Accéder au dossier du projet
 cd facturation-laravel-vuejs
