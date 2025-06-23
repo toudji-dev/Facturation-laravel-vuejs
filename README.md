@@ -17,6 +17,26 @@ Ce projet est une application web simple de facturation, conçue pour faciliter 
 -   _MySQL_ (base de données)
 -   _Bootstrap_ (pour le design)
 
+## 📷 Captures d'écran
+
+Voici quelques images de l'application :
+
+### 📄 Liste des factures
+
+![Liste des factures](public/images/listInvoices.png)
+
+### ➕ Nouvelle facture
+
+![Nouvelle facture](public/images/newInvoice.png)
+
+### 🛠️ Imprimer, modifier et supprimer une facture
+
+![Imprimer, modifier et supprimer une facture](public/images/printEditDeletedInvoice.png)
+
+### 🖨️ Imprimer une facture
+
+![Imprimer une facture](public/images/printInvoice.png)
+
 ## ⚙️ Installation
 
 ```bash
